@@ -16,30 +16,33 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `1`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+The purpose of this survey is to gather insights from current employees who occupy entry- and lower-level positions regarding their reasons for leaving the company, job satisfaction, and potential improvements that could enhance retention. This will help inform strategies to address the high turnover rate and improve employee engagement.
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+Target Population: Employees currently in entry- and lower-level positions within the company, across all departments.
+Sampling Frame: A list of all employees in entry- and lower-level positions, sourced from the company's HR records.
+Sampling Units: Individual employees in these positions.
+Overall Sampling Strategy: A stratified random sampling method, where employees from different departments and roles within the entry- and lower-level positions will be selected to ensure diversity in responses and to capture a variety of experiences.
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. How long have you been employed in your current position?
+2. What is the primary reason you are considering leaving your position or have already left?
+3. How would you rate your overall job satisfaction in your current role?
+4. How often do you receive feedback or recognition for your work?
+5. How satisfied are you with the opportunities for career growth and advancement at the company?
+6. Do you feel that your work is adequately supported by your manager or team leads?
+7. What changes, if any, would make you more likely to stay at the company?
+8. How likely are you to recommend working at this company to a friend or family member?
+9. What do you believe is the biggest challenge that entry-level employees face at this company?
+10.What additional support or resources would help improve your experience at work?
 ```
 
 ## Rubric
