@@ -16,30 +16,36 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `1`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+The purpose of this survey is to gather insights from current employees who occupy entry- and lower-level positions regarding their reasons for leaving the company, job satisfaction, and potential improvements that could enhance retention. This will help inform strategies to address the high turnover rate and improve employee engagement.
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+Target Population: The target population refers to the group of individuals we aim to understand or make conclusions about based on the survey results. In this case, the target population consists of employees in entry- and lower-level positions at the company across various departments, as they are most affected by the turnover issue.
+
+Sampling Frame: The sampling frame is the actual list or database from which the sample is drawn. Here, it would be the company’s HR database of all current employees in entry- and lower-level roles, categorized by department. This ensures that every employee in these positions has a chance of being selected for the survey.
+
+Sampling Units: Sampling units are the individual elements or entities selected from the sampling frame to be included in the sample. In this survey, the sampling units are the individual employees in entry- and lower-level positions, as each selected employee will provide their unique perspectives and feedback on job satisfaction and turnover.
+
+Observational Units: Observational units refer to the specific entities on which data is collected during the survey process. For this survey, the observational units are also the individual employees from entry- and lower-level positions. These are the employees who will directly provide responses to each survey question, thus providing the data used for analysis.
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. How long have you been employed in your current position?
+2. What is the primary reason you are considering leaving your position or have already left?
+3. How would you rate your overall job satisfaction in your current role?
+4. How often do you receive feedback or recognition for your work?
+5. How satisfied are you with the opportunities for career growth and advancement at the company?
+6. Do you feel that your work is adequately supported by your manager or team leads?
+7. What changes, if any, would make you more likely to stay at the company?
+8. How likely are you to recommend working at this company to a friend or family member?
+9. What do you believe is the biggest challenge that entry-level employees face at this company?
+10.What additional support or resources would help improve your experience at work?
 ```
 
 ## Rubric
