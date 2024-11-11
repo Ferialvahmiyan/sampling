@@ -25,10 +25,13 @@ The purpose of this survey is to gather insights from current employees who occu
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-Target Population: Employees currently in entry- and lower-level positions within the company, across all departments.
-Sampling Frame: A list of all employees in entry- and lower-level positions, sourced from the company's HR records.
-Sampling Units: Individual employees in these positions.
-Overall Sampling Strategy: A stratified random sampling method, where employees from different departments and roles within the entry- and lower-level positions will be selected to ensure diversity in responses and to capture a variety of experiences.
+Target Population: The target population refers to the group of individuals we aim to understand or make conclusions about based on the survey results. In this case, the target population consists of employees in entry- and lower-level positions at the company across various departments, as they are most affected by the turnover issue.
+
+Sampling Frame: The sampling frame is the actual list or database from which the sample is drawn. Here, it would be the company’s HR database of all current employees in entry- and lower-level roles, categorized by department. This ensures that every employee in these positions has a chance of being selected for the survey.
+
+Sampling Units: Sampling units are the individual elements or entities selected from the sampling frame to be included in the sample. In this survey, the sampling units are the individual employees in entry- and lower-level positions, as each selected employee will provide their unique perspectives and feedback on job satisfaction and turnover.
+
+Observational Units: Observational units refer to the specific entities on which data is collected during the survey process. For this survey, the observational units are also the individual employees from entry- and lower-level positions. These are the employees who will directly provide responses to each survey question, thus providing the data used for analysis.
 ```
 
 Your 5-10 question survey:
