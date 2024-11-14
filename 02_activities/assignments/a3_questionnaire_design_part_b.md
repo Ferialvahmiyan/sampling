@@ -3,8 +3,7 @@
 ## Requirements
 1. Comment on the quality of your sample. Do you expect it to be representative of your target population? Why or why not?
 
-    ```
-Strengths of the Survey
+ Strengths of the Survey
 - Diverse Questions: The survey covers critical factors like job satisfaction, recognition, managerial support, and career growth, all of which are common influences on employee retention.
 - Qualitative and Quantitative Data: Questions like "What changes, if any, would make you more likely to stay?" allow employees to provide open-ended feedback, while rating questions can be quantified for clearer analysis.
 - Direct Focus on Pain Points: Questions like “What is the primary reason you are considering leaving?” and “What do you believe is the biggest challenge that entry-level employees face?” directly address reasons behind turnover.
@@ -20,11 +19,9 @@ If the sample includes responses from a variety of departments and job levels, p
 - Target Entry-Level Employees Specifically: Make sure there’s a way to identify responses from entry-level employees without compromising anonymity, possibly by including an optional question about the respondent’s job level.
 - Include Exit Survey Data: Incorporate feedback from employees who have recently left, as they often provide the most candid feedback on reasons for turnover.
 Overall, with careful sampling and an emphasis on confidentiality, this survey can yield valuable, representative insights into turnover drivers and possible solutions to improve employee retention.
-    ```
 
 2. Given the class content (error, survey quality, ethics) covered since Part A of the assignment, do you wish to make any changes to your original survey? If so, make a copy of your original survey and make any desired changes. Describe the changes and your reasoning. Provide a link here for submission.
 
-    ```
 To refine the original survey based on the class content regarding error, survey quality, and ethics, a few adjustments can be made to improve clarity, reduce bias, and ensure that responses are more representative of the target population. Below, I'll outline the changes and the reasoning behind them.
 
 Original Survey (for reference):
@@ -68,11 +65,9 @@ New Question:
 "If you skipped any questions, please let us know why."
 [Open-ended response]
 
-    ```
 
 3. Could the purpose of your survey have been fulfilled through an observational study? If yes, how? If no, why not?
 
-    ```
 a purely observational study would not fully meet the purpose of understanding why employees are leaving and how to improve their satisfaction, for several reasons:
 1. Understanding Reasons for Turnover:
 Survey: The survey directly asks employees about the reasons they are leaving or considering leaving, which is a crucial part of the analysis. These reasons can be highly personal, and only employees themselves can provide clear, specific answers.
@@ -88,8 +83,7 @@ Survey: The survey asks about specific changes employees would like to see, such
 Observational Study: While an observational study could help identify areas where employees seem to struggle (e.g., long hours, disengagement in meetings), it would not provide the detailed suggestions for change that a survey would.
 Conclusion:
 While an observational study can provide valuable indirect data about employee behavior (such as engagement levels or stress indicators), it would not be sufficient to comprehensively understand the reasons for high turnover or the specific changes needed to improve employee satisfaction. A survey is essential for gathering direct feedback and actionable insights, particularly on sensitive topics like reasons for leaving, job satisfaction, and suggestions for improvement. Therefore, both methods could complement each other, but the survey is necessary for fulfilling the study's purpose.
-    ```
-
+ 
 ## Why am I doing this assignment?
 
 This assignment supports learning outcomes 1, 2, 3, and 4:
